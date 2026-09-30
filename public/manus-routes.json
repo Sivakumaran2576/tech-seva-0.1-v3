@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "TECH SEVA 1.0 — Home" },
+    { "path": "/problem-statements", "title": "Problem Statements" },
+    { "path": "/participants", "title": "Participants" },
+    { "path": "/leaderboard", "title": "Leaderboard" },
+    { "path": "/spin-wheel", "title": "Spin Wheel" },
+    { "path": "/timer", "title": "Event Timer" },
+    { "path": "/admin", "title": "Admin Console" }
+  ]
+}

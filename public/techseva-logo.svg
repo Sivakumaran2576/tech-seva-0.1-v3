@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+  <title id="title">TECH SEVA 1.0</title>
+  <desc id="desc">Circuit loop symbol and TECH SEVA wordmark</desc>
+  <rect width="520" height="150" rx="28" fill="#f7f9fb"/>
+  <path d="M68 37c-19 0-34 15-34 34s15 34 34 34h38c19 0 34-15 34-34s-15-34-34-34H68Zm0 19h38c8 0 15 7 15 15s-7 15-15 15H68c-8 0-15-7-15-15s7-15 15-15Z" fill="#0b1d38"/>
+  <path d="M91 37h15c19 0 34 15 34 34s-15 34-34 34H91v-19h15c8 0 15-7 15-15s-7-15-15-15H91V37Z" fill="#d5293f"/>
+  <circle cx="34" cy="71" r="7" fill="#d5293f"/><circle cx="140" cy="71" r="7" fill="#0b1d38"/>
+  <path d="M186 44h23v63h-14V57h-9V44Zm34 0h41v13h-27v11h23v13h-23v13h27v13h-41V44Zm52 0h15v25h23V44h15v63h-15V82h-23v25h-15V44Zm67 0h47v13h-32v12h27v13h-27v12h32v13h-47V44Zm59 0h15v50h29v13h-44V44Z" fill="#0b1d38"/>
+  <text x="187" y="126" fill="#d5293f" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3">INNOVATE TODAY — SERVE TOMORROW</text>
+</svg>
