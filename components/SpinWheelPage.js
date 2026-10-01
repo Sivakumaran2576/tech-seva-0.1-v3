@@ -254,7 +254,7 @@ const INITIAL_PROBLEMS = [
     "problemStatement": "Develop a smart parking-space monitoring system that detects whether designated parking spaces are occupied, identifies available spaces, and provides a clear indication to assist drivers in finding vacant parking locations.",
     "hardwareSoftware": "Hardware",
     "sensor": ["Ultrasonic", "IR", "OLED"],
-    "slot": 1
+    "slot": 0
   },
   {
     "statementId": "SSA027",
